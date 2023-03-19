@@ -1,4 +1,4 @@
 # Hello-World-Github
-Hello, I'm LIANGLEYAN at CUHK CENG!
+Hello, I'm Liang Leyan!
 
 My stduent number is 1155173835.
